@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sean Pacheco</h1>
+[![Seans's GitHub Banner](./assets/banner(1).png)]
 <h3 align="center">Raised in Hawaii before leaving for Europe to continue my studies, I then went into Education. I taught at a University program in Spain for many years before the pandemic hit. With schools shutting down I decided to make a big shift and start studying software engineering before joining 100devs. I feel the experiences I’ve brought from my time in the education field have helped me immensely and will continue to prove to be a valuable resource going forward.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=seanpacheco&label=Profile%20views&color=0e75b6&style=flat" alt="seanpacheco" /> </p>
