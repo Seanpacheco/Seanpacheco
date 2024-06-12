@@ -1,5 +1,4 @@
 ![Seans's GitHub Banner](./assets/vibes(1).png)
-<h3 align="center">Raised in Hawaii before leaving for Europe to continue my studies, I then went into Education. I taught at a University program in Spain for many years before the pandemic hit. With schools shutting down I decided to make a big shift and start studying software engineering before joining 100devs. I feel the experiences I’ve brought from my time in the education field have helped me immensely and will continue to prove to be a valuable resource going forward.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=seanpacheco&label=Profile%20views&color=0e75b6&style=flat" alt="seanpacheco" /> </p>
 
@@ -9,7 +8,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/seanmpr_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seanmpr_code" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sean-michael-pacheco-ruiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sean-michael-pacheco-ruiz" height="30" width="40" /></a>
 </p>
 
