@@ -4,7 +4,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seanpacheco" alt="seanpacheco" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/seanmpr_code" target="blank"><img src="https://img.shields.io/twitter/follow/seanmpr_code?logo=twitter&style=for-the-badge" alt="seanmpr_code" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -25,4 +24,3 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seanpacheco&show_icons=true&locale=en&layout=compact" alt="seanpacheco" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seanpacheco&" alt="seanpacheco" /></p>
